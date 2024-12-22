@@ -57,7 +57,7 @@ two years. However, the average sales price decreased by 5%, now at $58.80. Addi
 totaling 12,476 units compared to 9,837 units the previous year. The following sections will provide a detailed exploration of 
 these results. The interactive dashboard in Excel can be found [here](https://1drv.ms/x/c/ab7f92ee74de1e95/ERezKRgKKFtOv0dAu8hS0CUBtDejzFhtVSTf0Esc0xtCjA?e=IqxD28).
 
-[![Sales performance dashboard](./value-hub-dashboard.PNG)](https://1drv.ms/x/c/ab7f92ee74de1e95/ERezKRgKKFtOv0dAu8hS0CUBhsyCxhB362SLD99flZGQXg?e=bEl8X4)
+[![Sales-performance-dashboard](./value-hub-dashboard.PNG)](https://1drv.ms/x/c/ab7f92ee74de1e95/ERezKRgKKFtOv0dAu8hS0CUBhsyCxhB362SLD99flZGQXg?e=bEl8X4)
 
 
 ### Product analysis
@@ -66,16 +66,16 @@ these results. The interactive dashboard in Excel can be found [here](https://1d
 
 The most sold products in the latest year are related to high-end copying and printing solutions, dominating the top sales positions.
 
-![sales by product](./sales-by-product.PNG)
+![sales-by-product](./sales-by-product.PNG)
 
 #### Profit by product (top 10)
 
 The products that generate the most profit are the same as sales. 
 
-![profit by product](./profit-by-product.PNG)
+![profit-by-product](./profit-by-product.PNG)
 
 
-### Subcategories with highest sales (top 10)
+#### Subcategories with highest sales (top 10)
 
 The subcategories that sold the most in the latest year can be divided into technology items 
 like phones (top product line), followed by furniture and organizational needs; the rest are 
@@ -83,28 +83,28 @@ related to supplementary and protective products.
 
 
 
-![subcategories with highest sales](./subcategories-with-highest-sales.PNG)
+![subcategories-with-highest-sales](./subcategories-with-highest-sales.PNG)
 
 
-### Subcategories with lowest sales (bottom 10)
+#### Subcategories with lowest sales (bottom 10)
 
 The subcategories that sold the least in the latest year are fasteners, with $857.5, and the sales incrementally up to appliances and machines, which are closer to $45,000.
 
-![subcategories with lowest sales](./subcategories-with-lowest-sales.PNG)
+![subcategories-with-lowest-sales](./subcategories-with-lowest-sales.PNG)
 
 
-### Subcategories with highest profit (top 10)
+#### Subcategories with highest profit (top 10)
 
 The pattern is similar to the one with the highest sales; the difference is that the top ones are copiers, followed by accessories, phones, and the rest are office supplies.
 
-![subcategories with highest profit](./subcategories-with-highest-profit.PNG)
+![subcategories-with-highest-profit](./subcategories-with-highest-profit.PNG)
 
-### Subcategories with lowest profit (bottom 10)
+#### Subcategories with lowest profit (bottom 10)
 
 The subcategories that generate the least profit are tables, with significant losses of $8140.69, followed by machines ($2869.21), 
 supplies ($955.31), and bookcases ($583.62); the rest show minimal but positive profits between $304 and $7402.80.
 
-![subcategories with lowest profit](./subcategories-with-lowest-profit.PNG)
+![subcategories-with-lowest-profit](./subcategories-with-lowest-profit.PNG)
 
 ### Geographical analysis
 
@@ -120,7 +120,7 @@ Chicago, Houston, Newark, and Jackson complete the top 10, with Jackson's inclus
 indicating specific local factors driving its sales performance.
 
 
-[cities with highest sales](./cities-with-highest-sales.PNG)
+![cities-with-highest-sales](./cities-with-highest-sales.PNG)
 
 
 #### Cities with lowest sales (bottom 10)
@@ -129,14 +129,14 @@ indicating specific local factors driving its sales performance.
 
 The cities with the lowest sales were Abilene, Elyria, Jupiter, Edinburgh, and others that complete the list representing less than 1% of the sales in the latest year.
 
-[cities with lowest sales](./cities-with-lowest-sales.PNG)
+![cities-with-lowest-sales](./cities-with-lowest-sales.PNG)
 
 #### Cities with highest profit (top 10)
 
 The same pattern is almost repeated compared to the sales; New York City leads again, producing the highest profit ($22406.02), and the same three cities that complete the top four.
 
 
-[cities-with-highest-profit](./cities-with-highest-profit.PNG)
+![cities-with-highest-profit](./cities-with-highest-profit.PNG)
 
 
 #### Cities with lowest profit (bottom 10)
@@ -144,9 +144,9 @@ The same pattern is almost repeated compared to the sales; New York City leads a
 The cities with the lowest sales were Phoenix, Jacksonville, Knoxville, and others that complete the list.
 
 
-[cities with lowest profit](./cities-with-lowest-profit.PNG)
+![cities-with-lowest-profit](./cities-with-lowest-profit.PNG)
 
-#### Temporal analysis
+### Temporal analysis
 
 #### Sales through time
 
@@ -155,7 +155,7 @@ The sales in 2017 are uniformly higher than in 2016, indicating overall business
 in 2017 and shows higher sales than the corresponding quarter in 2016, with an average increase of $30,997.412.
 
 
-[sales through time](./sales-through-time.PNG)
+![sales-through-time](./sales-through-time.PNG)
 
 
 #### Profit through time
@@ -164,7 +164,7 @@ in 2017 and shows higher sales than the corresponding quarter in 2016, with an a
 The profits in 2017 are uniformly higher than in 2016, indicating overall business growth (14%). This repeats in each quarter 
 in the latest year, showing higher profit than the corresponding quarter in 2016, with an average increase of $8,808.04, except in Q4.
 
-[profit through time](./profit-through-time.PNG)
+![profit-through-time](./profit-through-time.PNG)
 
 
 ### Recomendations
