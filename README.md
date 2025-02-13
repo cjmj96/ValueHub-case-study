@@ -169,7 +169,7 @@ in the latest year, showing higher profit than the corresponding quarter in 2016
 
 ### Recomendations
 
-In the light of the previous data, her are my suppositions are recommended for reference:
+In the light of the previous insights, here are my recommendations:
 
 1. **Enhance Product Portfolio Management**: Even while we still dominate in sales/profit of high-end copying/printing solutions and phones, 
 from time to time an examination needs to be made to ascertain emerging trends and falling products.
